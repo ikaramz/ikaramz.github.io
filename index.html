@@ -3,58 +3,63 @@
 <head>
   <meta charset="UTF-8">
   <title>ikaramz의 IT 성장 기록 Blog</title>
+  
   <style>
+    @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Nanum+Gothic+Coding:wght@400;700&display=swap');
+
     /* 1. 블로그 전체 설정 */
     body {
-        font-family: 'Malgun Gothic', sans-serif;
-        line-height: 1.6;
-        margin: 0; /* body 마진은 0으로 하고 컨테이너에서 조정 */
+        /* 영문은 IBM Plex Mono, 한글은 나눔고딕 코딩을 우선 적용 */
+        font-family: 'IBM Plex Mono', 'Nanum Gothic Coding', monospace;
+        line-height: 1.8;
+        margin: 0;
         padding: 0; 
-        background-color: #FFF0F2; /* 부드러운 핑크 배경 */
+        background-color: #FFF0F2; 
         color: #333;
     }
 
-    /* 2. 메인 컨테이너 (흰색 박스 영역) */
+    /* 2. 메인 컨테이너 */
     .container {
       max-width: 800px;
-      margin: 50px auto; /* 위아래 여백 50px, 좌우 중앙 정렬 */
-      background-color: #ffffff; /* 본문 배경 흰색 */
+      margin: 50px auto;
+      background-color: #ffffff;
       padding: 40px;
-      border-radius: 15px; /* 모서리 둥글게 */
-      /* box-shadow로 수정 (border-shadow는 없는 속성입니다) */
+      border-radius: 15px;
       box-shadow: 0 10px 25px rgba(0,0,0,0.05); 
     }
 
     /* 3. 블로그 제목 (에이프릴 로열 핑크 포인트) */
     h1.blog-title { 
-        color: #FF8DA1; /* 포인트 컬러 적용 */
-        font-size: 2.2em;
+        color: #FF8DA1; 
+        font-size: 2.0em; /* 폰트 특성에 맞춰 약간 조절 */
+        font-weight: 500;
         margin-bottom: 30px;
-        border-bottom: 2px solid #FFF0F2; /* 제목 아래 얇은 구분선 */
+        border-bottom: 2px solid #FFF0F2;
         padding-bottom: 10px;
+        letter-spacing: -0.5px; /* 글자 간격 살짝 좁힘 */
     }
 
     /* 4. 포스팅 제목 */
     h2.post-title {
-        font-size: 1.6em;
-        color: #333333;
+        font-size: 1.5em;
+        color: #222;
         margin-top: 0;
         margin-bottom: 15px;
+        font-weight: 700;
     }
 
     /* 5. 본문 내용 */
     p {
-      color: #555555;
-      line-height: 1.8;
+      color: #444;
       margin-bottom: 25px;
-      word-break: keep-all; /* 한글 줄바꿈을 자연스럽게 */
+      word-break: keep-all;
     }
 
-    /* 6. 작성일 (오른쪽 정렬) */
+    /* 6. 작성일 */
     .post-date {
-      display: block; /* 한 줄을 다 차지하게 해서 정렬 적용 */
-      font-size: 0.9em;
-      color: #999999;
+      display: block;
+      font-size: 0.85em;
+      color: #aaa;
       text-align: right;
       margin-top: 20px;
     }   
