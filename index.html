@@ -10,36 +10,48 @@
         line-height: 1.6;
         margin: 40px auto;
         padding: 0 20px; 
-        background-color: #ffe0e9; /* 연한 핑크 background */
+        background-color: #FFF0F2; /* 더 부드럽고 따뜻한 Pick background */
         color: black;              /* 기본 글씨색을 검정으로 설정 */
     }
-
-    /* 메인 제목 (상단 환영 인사) */
+    /* 2. Blog Main Container (실제 콘텐츠 영역) */
+    .container {
+      max-width: 800px;                       /* 본문 너비 제한으로 가독성 향상 */
+      margin: 40px auto;                     /* 중앙 정렬 */
+      background-color: #ffffff;             /* 본문 background은 완전 white으로 깔끔하게 */
+      padding: 30px;
+      border-shadow: 0 4px 8px rgba(0,0,0,0.05); /* 은은한 그림자로 입체감 부여 */
+    }
+    /* 3. Header (Blog Subject) */
     h1 { 
-        color: black;   /* Pinkcolor였던 제목을 Black으로 변경 */
-        border-bottom: 2px solid #ffb6c1; /* 아래 줄도 Pink Color 계열로 매칭 */
-        padding-bottom: 10px;
+        color: #333333;       /* Pinkcolor였던 제목을 Black으로 변경 */
+        font-size: 2.2em;     /* 크기 증가 */
+        margin-bottom: 20px;  /*테두리(Border)와 다른 요소(Next Box) 사이의 거리 */
        }
 
-    /* 개별 Post Box 설정 */
-    .post {
-        margin-bottom: 30px;
-        border: 1px solid #ffb6c1;   /* Box 테두리고 Pink color 계열 */
-        padding: 20px; 
-        border-radius: 8px; 
-        background-color: white;     /* Post 내용은 잘 보이게 White Background */
-        box-shadow: 2px 2px 5px rgba(0,0,0,0.1); /*약간의 Shadow Effective */
+    /* 3-1 Blog Subject 내 Point Color (APRIL 로열 PINK) */
+    h1.blog-title {
+      color: #FF8DA1; /* 이 부분이 Point!! */        
     }
 
-    /* Post Subject */
-    .post h2 {
-        color: black;
-        margin-top: 0;
+    /* 4. Posting Subject (First Record)*/
+    h2.post-title {
+        font-size: 1.5em;
+        color: #333333;
+        margin-bottom: 15px;
     }
 
-    /* 작성일 (Gray 에서 좀 더 진하게) */
-    small {
-        color: #555;
+    /* 5. 본문 내용 */
+    p {
+      color: #555555;    /* 본문은 약간 흐린 Gray으로 눈을 편안하게 */
+      line-height: 1.8;  /* 줄 간격을 넓혀 가독성 향상 */
+      margin-bottom: 25px;
+    }
+    /* 6. 작성일 (가장 아래, 작은 글씨로) */
+    .post-date {
+      font-size: 0.9em;
+      color: #999999;        /* 날짜는 연하게 */
+      text-align: right;     /*오른쪽 정렬 */
+      margin-top: 10px;
     }   
   </style>
   
