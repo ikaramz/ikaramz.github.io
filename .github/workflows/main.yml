@@ -1,0 +1,29 @@
+name: Random Image Selector
+
+on:
+  schedule:
+    - cron: '0 * * * *' # 매 시간 정각마다 자동으로 바뀝니다.
+  workflow_dispatch:      # 우리가 원할 때 버튼 눌러서 바로 바꿀 수 있습니다.
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Pick a Random Photo
+        run: |
+          # images 폴더의 사진 중 하나를 랜덤으로 선택 (확장자 상관없이)
+          IMG=$(ls images/ | grep -v ".keep" | shuf -n 1)
+          echo "선택된 사진: $IMG"
+          
+          # index.html 파일에서 id가 random-img인 부분의 주소를 변경
+          sed -i "s|id=\"random-img\" src=\"[^\"]*\"|id=\"random-img\" src=\"images/$IMG\"|g" index.html
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add index.html
+          git commit -m "랜덤 이미지 업데이트: $IMG" || exit 0
+          git push
