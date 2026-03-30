@@ -1,24 +1,27 @@
-# 🚀 My Dev Journey
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ikarams%20Learning%20Log&fontSize=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=🌸%20Ikarams%20Spring%20DevLog%20🌸&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=38&bgColor=ffea00&gradient_colors=ffb7c5,ffea00)
 
 <p align="right">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fikarams.github.io&count_bg=%230078D4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Total%20Views&edge_flat=false" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fikarams.github.io&count_bg=%23ffea00&title_bg=%23FFB7C5&icon=cherryblossom&icon_color=%23FFFFFF&title=Cherry%20Hits&edge_flat=false&style=plastic" />
 </p>
 
 ### 💻 About Me
-IT 인프라와 보안 기술을 탐구하는 학습자입니다. 
-매일 조금씩 더 나은 시스템을 구축하기 위해 기록합니다.
+🌸 벚꽃이 흩날리는 따뜻한 봄날, IT의 신세계를 탐험하는 Ikarams입니다. 
+매일 기록하고 배우며, 봄날의 새싹처럼 성장하고 싶습니다.
 
 ---
 
 ### 🛠 Tech Stacks
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-ffea00?style=flat&logo=linux&logoColor=333333)
+![C](https://img.shields.io/badge/C-ffea00?style=flat&logo=c&logoColor=333333)
+![Python](https://img.shields.io/badge/Python-ffea00?style=flat&logo=python&logoColor=333333)
+![Azure](https://img.shields.io/badge/Azure-ffea00?style=flat&logo=microsoft-azure&logoColor=333333)
 
 ---
 
-### 📈 GitHub Stats
-![Ikarams's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikarams&show_icons=true&theme=tokyonight)
+### 📊 GitHub Stats (With Pastel Theme)
+![Ikarams's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikarams&show_icons=true&theme=pastel)
+
+---
+
+### 📝 Latest April Posts
+- [나의 깃허브 블로그 벚꽃 꾸미기](./README.md)
