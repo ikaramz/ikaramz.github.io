@@ -1,69 +1,76 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-  <meta charset="UTF-8"">
+  <meta charset="UTF-8">
   <title>ikaramz의 IT 성장 기록 Blog</title>
   <style>
-     /* 블로그 전체 설정 */
+    /* 1. 블로그 전체 설정 */
     body {
-        font-family: 'Malgun Gothic', sans-serif /* 한국어에 깔끔한 font*/
+        font-family: 'Malgun Gothic', sans-serif;
         line-height: 1.6;
-        margin: 40px auto;
-        padding: 0 20px; 
-        background-color: #FFF0F2; /* 더 부드럽고 따뜻한 Pick background */
-        color: black;              /* 기본 글씨색을 검정으로 설정 */
+        margin: 0; /* body 마진은 0으로 하고 컨테이너에서 조정 */
+        padding: 0; 
+        background-color: #FFF0F2; /* 부드러운 핑크 배경 */
+        color: #333;
     }
-    /* 2. Blog Main Container (실제 콘텐츠 영역) */
+
+    /* 2. 메인 컨테이너 (흰색 박스 영역) */
     .container {
-      max-width: 800px;                       /* 본문 너비 제한으로 가독성 향상 */
-      margin: 40px auto;                     /* 중앙 정렬 */
-      background-color: #ffffff;             /* 본문 background은 완전 white으로 깔끔하게 */
-      padding: 30px;
-      border-shadow: 0 4px 8px rgba(0,0,0,0.05); /* 은은한 그림자로 입체감 부여 */
-    }
-    /* 3. Header (Blog Subject) */
-    h1 { 
-        color: #333333;       /* Pinkcolor였던 제목을 Black으로 변경 */
-        font-size: 2.2em;     /* 크기 증가 */
-        margin-bottom: 20px;  /*테두리(Border)와 다른 요소(Next Box) 사이의 거리 */
-       }
-
-    /* 3-1 Blog Subject 내 Point Color (APRIL 로열 PINK) */
-    h1.blog-title {
-      color: #FF8DA1; /* 이 부분이 Point!! */        
+      max-width: 800px;
+      margin: 50px auto; /* 위아래 여백 50px, 좌우 중앙 정렬 */
+      background-color: #ffffff; /* 본문 배경 흰색 */
+      padding: 40px;
+      border-radius: 15px; /* 모서리 둥글게 */
+      /* box-shadow로 수정 (border-shadow는 없는 속성입니다) */
+      box-shadow: 0 10px 25px rgba(0,0,0,0.05); 
     }
 
-    /* 4. Posting Subject (First Record)*/
+    /* 3. 블로그 제목 (에이프릴 로열 핑크 포인트) */
+    h1.blog-title { 
+        color: #FF8DA1; /* 포인트 컬러 적용 */
+        font-size: 2.2em;
+        margin-bottom: 30px;
+        border-bottom: 2px solid #FFF0F2; /* 제목 아래 얇은 구분선 */
+        padding-bottom: 10px;
+    }
+
+    /* 4. 포스팅 제목 */
     h2.post-title {
-        font-size: 1.5em;
+        font-size: 1.6em;
         color: #333333;
+        margin-top: 0;
         margin-bottom: 15px;
     }
 
     /* 5. 본문 내용 */
     p {
-      color: #555555;    /* 본문은 약간 흐린 Gray으로 눈을 편안하게 */
-      line-height: 1.8;  /* 줄 간격을 넓혀 가독성 향상 */
+      color: #555555;
+      line-height: 1.8;
       margin-bottom: 25px;
+      word-break: keep-all; /* 한글 줄바꿈을 자연스럽게 */
     }
-    /* 6. 작성일 (가장 아래, 작은 글씨로) */
+
+    /* 6. 작성일 (오른쪽 정렬) */
     .post-date {
+      display: block; /* 한 줄을 다 차지하게 해서 정렬 적용 */
       font-size: 0.9em;
-      color: #999999;        /* 날짜는 연하게 */
-      text-align: right;     /*오른쪽 정렬 */
-      margin-top: 10px;
+      color: #999999;
+      text-align: right;
+      margin-top: 20px;
     }   
   </style>
-  
 </head>
-  <body>
-      <h1> 반갑습니다. ikaramz Blog에 오신 걸 환영합니다. </h1>
+<body>
+
+  <div class="container">
+      <h1 class="blog-title">반갑습니다. ikaramz Blog에 오신 걸 환영합니다.</h1>
 
       <div class="post">
-            <h2>첫 번째 기록: Blog Start!</h2>
-            <p>오늘 드디어 GitHub Blog를 개설 했습니다. 기본기가 탄탄한 해커가 되겠습니다.</p>
-            <small> 작성일 : 2026년 3월 30일</small>
+            <h2 class="post-title">첫 번째 기록: Blog Start!</h2>
+            <p>오늘 드디어 GitHub Blog를 개설했습니다. 기본기가 탄탄한 해커가 되겠습니다.</p>
+            <small class="post-date">작성일 : 2026년 3월 30일</small>
       </div>
-  </body>
+  </div>
+
+</body>
 </html>
-        
