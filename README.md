@@ -30,17 +30,17 @@
 ---
 
 ## 🌸 Projects & Labs (Dream Candy)
-* **[C-Calculator](본인_리포지토리_링크)** * `C`, `Makefile`, `GitHub Actions`
+* **[C-Calculator](https://github.com/ikarams)** * `C`, `Makefile`, `GitHub Actions`
     * GitHub Actions를 이용한 자동 빌드/테스트 파이프라인(CI/CD) 구축 및 테스트 자동화로 코드 안정성 확보
-* **[Cloud Sync Project](본인_리포지토리_링크)** * `rsync`, `cloud-init`, `Azure`
+* **[Cloud Sync Project](https://github.com/ikarams)** * `rsync`, `cloud-init`, `Azure`
     * rsync와 cloud-init을 활용하여 지역 간 서버 데이터 이중화 및 자동화 구현 실습
 
 ---
 
 ### 🌸 GitHub Stats (Fineapple Theme)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikarams&show_icons=true&theme=pastel&bg_color=FFB7C5&title_color=FFFFFF&icon_color=FFEA00&text_color=FFFFFF" alt="Ikarams's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikarams&layout=compact&theme=pastel&bg_color=FFEA00&title_color=FFFFFF&text_color=000000" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ikarams&show_icons=true&theme=pastel&bg_color=FFB7C5&title_color=FFFFFF&icon_color=FFEA00&text_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikarams&layout=compact&theme=pastel&bg_color=FFEA00&title_color=FFFFFF&text_color=000000" />
 </p>
 
 ---
