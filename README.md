@@ -2,24 +2,23 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=🌸%20APRIL%20Ikarams%20🌸&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&bgColor=ffea00&gradient_colors=ffb7c5,ffea00)
 
-
 <p align="right">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fikarams.github.io&count_bg=%23ffea00&title_bg=%23FFB7C5&icon=apple&icon_color=%23FFFFFF&title=Fineapples&edge_flat=false&style=plastic" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fikarams.github.io&count_bg=%23ffea00&title_bg=%23FFB7C5&icon=cherryblossom&icon_color=%23FFFFFF&title=Fineapples&edge_flat=false&style=plastic" />
 </p>
 
-### 🍎 My Favorite & Bias: Rachel (성나연)
+### 🌸 My Favorite & Bias: Rachel (성나연)
 > **"나의 최애 레이첼과 함께하는 IT 여정"**
 > 제 개발 환경의 이름은 **'Rachel'**입니다. 가장 좋아하는 아티스트의 밝고 건강한 에너지를 받아, 인프라와 보안의 세계를 즐겁게 탐구하며 오늘도 성장 중!
 
 ---
 
-### 💻 About Me: Hello!
+### 🌸 About Me: Hello!
 에이프릴(APRIL)의 노래처럼, 듣는 이에게 기분 좋은 에너지를 주는 IT 엔지니어를 꿈꾸는 Ikarams입니다. 
 리눅스 서버 관리부터 Azure 클라우드 보안까지, 하나하나 제 것으로 만들어가고 있습니다.
 
 ---
 
-## 🛠 Tech Stacks (April Yellow Edition)
+## 🌸 Tech Stacks (April Yellow Edition)
 | Domain | Technologies |
 | :--- | :--- |
 | **System & Cloud** | ![Linux](https://img.shields.io/badge/Linux-FFD700?style=for-the-badge&logo=linux&logoColor=black) ![Azure](https://img.shields.io/badge/Azure-FFED00?style=for-the-badge&logo=microsoft-azure&logoColor=black) |
@@ -30,7 +29,7 @@
 
 ---
 
-## 🚀 Projects & Labs (Dream Candy)
+## 🌸 Projects & Labs (Dream Candy)
 * **[C-Calculator](본인_리포지토리_링크)** * `C`, `Makefile`, `GitHub Actions`
     * GitHub Actions를 이용한 자동 빌드/테스트 파이프라인(CI/CD) 구축 및 테스트 자동화로 코드 안정성 확보
 * **[Cloud Sync Project](본인_리포지토리_링크)** * `rsync`, `cloud-init`, `Azure`
@@ -38,8 +37,14 @@
 
 ---
 
-### 📈 GitHub Stats (Fineapple Theme)
+### 🌸 GitHub Stats (Fineapple Theme)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ikarams&show_icons=true&theme=pastel&bg_color=FFB7C5&title_color=FFFFFF&icon_color=FFEA00&text_color=FFFFFF" alt="Ikarams's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikarams&layout=compact&theme=pastel&bg_color=FFEA00&title_color=FFFFFF&text_color=000000" alt="Top Languages" />
 </p>
+
+---
+
+### 🌸 Latest Activity
+- [정보처리기사 실기 준비 기록](./README.md)
+- [C언어 계산기 프로젝트 CI/CD 구축](./README.md)
