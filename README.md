@@ -2,6 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=🌸%20APRIL%20Ikarams%20🌸&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&bgColor=ffea00&gradient_colors=ffb7c5,ffea00)
 
+
 <p align="right">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fikarams.github.io&count_bg=%23ffea00&title_bg=%23FFB7C5&icon=apple&icon_color=%23FFFFFF&title=Fineapples&edge_flat=false&style=plastic" />
 </p>
@@ -40,4 +41,5 @@
 ### 📈 GitHub Stats (Fineapple Theme)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ikarams&show_icons=true&theme=pastel&bg_color=FFB7C5&title_color=FFFFFF&icon_color=FFEA00&text_color=FFFFFF" alt="Ikarams's GitHub stats" />
-  <img src="
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikarams&layout=compact&theme=pastel&bg_color=FFEA00&title_color=FFFFFF&text_color=000000" alt="Top Languages" />
+</p>
