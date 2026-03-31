@@ -17,11 +17,16 @@
 
 ---
 
-### 🛠 Tech Stacks (April Yellow Edition)
-![Linux](https://img.shields.io/badge/Linux-ffea00?style=for-the-badge&logo=linux&logoColor=333333)
-![C](https://img.shields.io/badge/C-ffea00?style=for-the-badge&logo=c&logoColor=333333)
-![Python](https://img.shields.io/badge/Python-ffea00?style=for-the-badge&logo=python&logoColor=333333)
-![Azure](https://img.shields.io/badge/Azure-ffea00?style=for-the-badge&logo=microsoft-azure&logoColor=333333)
+## 🛠 Tech Stacks
+| Domain | Technologies |
+| :--- | :--- |
+| **System & Cloud** | ![Linux](...) ![Azure](...) |
+| **Network & Security** | ![Cisco](...) ![Kali](...) |
+| **Programming** | ![C](...) ![Python](...) |
+
+## 🚀 Projects & Labs
+* [C-Calculator](링크) - GitHub Actions를 이용한 자동 빌드/테스트 파이프라인 구축
+* [Cloud Sync Project](링크) - rsync와 cloud-init을 활용한 서버 이중화 실습
 
 ---
 
