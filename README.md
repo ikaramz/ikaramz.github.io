@@ -36,5 +36,5 @@
 ---
 
 ### 📝 Latest Activity
-- [네트워크 관리사 2급 실기 준비 기록](./README.md)
+- [정보처리 기사 실기 준비 기록](./README.md)
 - [C언어 계산기 프로젝트 CI/CD 구축](./README.md)
