@@ -6,7 +6,7 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fikarams.github.io&count_bg=%23ffea00&title_bg=%23FFB7C5&icon=cherryblossom&icon_color=%23FFFFFF&title=Fineapples&edge_flat=false&style=plastic" />
 </p>
 
-### 🌸 My Favorite & Bias: Rachel (성나연)
+### 🌸 My Favorite & Bias: Rachel (Sungnayeon)
 > **"나의 최애 레이첼과 함께하는 IT 여정"**
 > 제 개발 환경의 이름은 **'Rachel'**입니다. 가장 좋아하는 아티스트의 밝고 건강한 에너지를 받아, 인프라와 보안의 세계를 즐겁게 탐구하며 오늘도 성장 중!
 
