@@ -20,9 +20,9 @@
 ## 🛠 Tech Stacks
 | Domain | Technologies |
 | :--- | :--- |
-| **System & Cloud** | ![Linux](...) ![Azure](...) |
-| **Network & Security** | ![Cisco](...) ![Kali](...) |
-| **Programming** | ![C](...) ![Python](...) |
+| **System & Cloud** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) |
+| **Network & Security** | ![Cisco](https://img.shields.io/badge/Cisco-121212?style=flat-square&logo=cisco&logoColor=white) ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) |
+| **Programming** | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 ## 🚀 Projects & Labs
 * [C-Calculator](링크) - GitHub Actions를 이용한 자동 빌드/테스트 파이프라인 구축
