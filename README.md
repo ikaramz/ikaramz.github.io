@@ -51,6 +51,6 @@
 - 💻 **Project:** C언어 계산기 CI/CD 파이프라인 고도화
 
 - ### 🌸 Goals & Challenges (2026)
-- [ ] 🛡️ **정보처리기사 필기 합격** 
-- [ ] ⚙️ **Linux Master Level 2** 실습 완료
+- [ ] 🛡️ **정보처리기사 필기 도전** 
+- [ ] ⚙️ **Linux Master Level 2** 실기 준비중
 - [ ] ☁️ **CISCO ACADEMY 수료증** 도전 예정
