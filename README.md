@@ -47,5 +47,10 @@
 ---
 
 ### 🌸 Current Progress
-- 📝 **Certification:** 정보처리기사 실기 열공 중 (`Progress: 70%`)
+- 📝 **Certification:** 정보처리기사 필기 열공 중 (`Progress: 70%`)
 - 💻 **Project:** C언어 계산기 CI/CD 파이프라인 고도화
+
+- ### 🌸 Goals & Challenges (2026)
+- [ ] 🛡️ **정보처리기사 필기 합격** 
+- [ ] ⚙️ **Linux Master Level 2** 실습 완료
+- [ ] ☁️ **CISCO ACADEMY 수료증** 도전 예정
