@@ -37,14 +37,15 @@
 
 ---
 
-### 🌸 GitHub Stats (Fineapple Theme)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikarams&show_icons=true&theme=pastel&bg_color=FFB7C5&title_color=FFFFFF&icon_color=FFEA00&text_color=FFFFFF" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikarams&layout=compact&theme=pastel&bg_color=FFEA00&title_color=FFFFFF&text_color=000000" />
-</p>
+## 🌸 Tech Stacks (April Yellow Edition)
+| Domain | Technologies |
+| :---: | :--- |
+| **System & Cloud** | [![Linux](https://img.shields.io/badge/Linux-FFD700?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/) [![Azure](https://img.shields.io/badge/Azure-FFED00?style=for-the-badge&logo=microsoft-azure&logoColor=black)](https://azure.microsoft.com/) |
+| **Network & Security** | [![Cisco](https://img.shields.io/badge/Cisco-F7DC6F?style=for-the-badge&logo=cisco&logoColor=black)](https://www.cisco.com/) [![Kali](https://img.shields.io/badge/Kali_Linux-F4D03F?style=for-the-badge&logo=kali-linux&logoColor=black)](https://www.kali.org/) |
+| **Programming** | [![C](https://img.shields.io/badge/C-FCF3CF?style=for-the-badge&logo=c&logoColor=black)](https://en.cppreference.com/w/c) [![Python](https://img.shields.io/badge/Python-FEF9E7?style=for-the-badge&logo=python&logoColor=black)](https://www.python.org/) |
 
 ---
 
-### 🌸 Latest Activity
-- [정보처리기사 실기 준비 기록](./README.md)
-- [C언어 계산기 프로젝트 CI/CD 구축](./README.md)
+### 🌸 Current Progress
+- 📝 **Certification:** 정보처리기사 실기 열공 중 (`Progress: 70%`)
+- 💻 **Project:** C언어 계산기 CI/CD 파이프라인 고도화
