@@ -35,7 +35,7 @@ Linux Server 관리부터 Azure Cloud Security까지, 하나하나 제 것으로
 
 | Domain | Technologies |
 | :---: | :--- |
-| **System & Cloud** | [![Linux](https://img.shields.io/badge/Linux-FFD700?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/) [![Azure](https://img.shields.io/badge/Azure-FFED00?style=for-the-badge&logo=microsoft-azure&logoColor=black)](https://azure.microsoft.com/) |
+| **System & Cloud** | [![Linux](https://img.shields.io/badge/Linux-FFD700?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/) [![Azure](https://img.shields.io/badge/Azure-FFED00?style=for-the-badge&logo=microsoft-azure&logoColor=black)](https://azure.microsoft.com/ko-kr/get-started/azure-portal) |
 | **Network & Security** | [![Cisco](https://img.shields.io/badge/Cisco-F7DC6F?style=for-the-badge&logo=cisco&logoColor=black)](https://www.cisco.com/) [![Kali](https://img.shields.io/badge/Kali_Linux-F4D03F?style=for-the-badge&logo=kali-linux&logoColor=black)](https://www.kali.org/) |
 | **Programming** | [![C](https://img.shields.io/badge/C-FCF3CF?style=for-the-badge&logo=c&logoColor=black)](https://en.cppreference.com/w/c) [![Python](https://img.shields.io/badge/Python-FEF9E7?style=for-the-badge&logo=python&logoColor=black)](https://www.python.org/) |
 
