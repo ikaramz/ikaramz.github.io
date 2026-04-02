@@ -14,7 +14,7 @@
 
 ### 🌸 About Me: Hello!
 에이프릴(APRIL)의 노래처럼, 듣는 이에게 기분 좋은 에너지를 주는 IT 엔지니어를 꿈꾸는 Ikarams입니다. 
-리눅스 서버 관리부터 Azure 클라우드 보안까지, 하나하나 제 것으로 만들어가고 있습니다.
+Linux Server 관리부터 Azure Cloud Security까지, 하나하나 제 것으로 만들어가고 있습니다.
 
 ---
 
