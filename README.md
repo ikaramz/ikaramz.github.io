@@ -51,7 +51,17 @@
 ### 📊 GitHub Activity Snapshot
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Stats-181717?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/followers/ikarams?label=Followers&style=for-the-badge&color=007ACC" />
-  <img src="https://img.shields.io/github/stars/ikarams?label=Stars&style=for-the-badge&color=FFEA00" />
+  <a href="https://github.com/ikarams">
+    <img src="https://img.shields.io/badge/Followers-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="Followers">
+  </a>
+  <a href="https://github.com/ikarams?tab=stars">
+    <img src="https://img.shields.io/badge/Stars-FFEA00?style=for-the-badge&logo=github&logoColor=black" alt="Stars">
+  </a>
+  <a href="https://github.com/ikarams?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-2496ED?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ikarams&color=007acc&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
