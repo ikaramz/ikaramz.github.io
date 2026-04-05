@@ -51,9 +51,9 @@
 ### 📊 GitHub Activity Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ikarams&show_icons=true&theme=tokyonight" alt="Ikarams Stats" />
+  <img src="https://stardis-stats.vercel.app/api?username=ikarams&show_icons=true&theme=tokyonight" alt="Ikarams Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ikarams&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://stardis-stats.vercel.app/api/top-langs/?username=ikarams&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
