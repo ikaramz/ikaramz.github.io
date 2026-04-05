@@ -54,3 +54,11 @@
 <p align="center">
   <a href="https://github.com/ikarams"><img src="https://img.shields.io/badge/Followers-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="Followers"></a><a href="https://github.com/ikarams?tab=stars"><img src="https://img.shields.io/badge/Stars-FFEA00?style=for-the-badge&logo=github&logoColor=black" alt="Stars"></a><a href="https://github.com/ikarams?tab=repositories"><img src="https://img.shields.io/badge/Repositories-2496ED?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
 </p>
+
+<br />
+
+<p align="center">
+  <i>"Turning inspiration into infrastructure, and passion into protection."</i>
+</p>
+
+---
