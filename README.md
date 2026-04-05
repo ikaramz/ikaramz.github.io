@@ -1,53 +1,52 @@
-# 🌸 Welcome to APRIL DevLog
+# 🛡️ Ikarams | Cybersecurity & Infra Specialist
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=🌸%20APRIL%20Ikarams%20🌸&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&bgColor=ffea00&gradient_colors=ffb7c5,ffea00)
-
-<p align="right">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fikarams.github.io&count_bg=%23ffea00&title_bg=%23FFB7C5&icon=cherryblossom&icon_color=%23FFFFFF&title=Fineapples&edge_flat=false&style=plastic" />
+<p align="center">
+  <img src="https://여기에_이미지_주소_입력.png" width="100%" alt="APRIL Ikarams Security Logo">
 </p>
 
-### 🌸 My Favorite & Bias: Rachel (Sungnayeon)
-> **"나의 최애 레이첼과 함께하는 IT 여정"**
-> 제 개발 환경의 이름은 **'Rachel'**입니다. 가장 좋아하는 아티스트의 밝고 건강한 에너지를 받아, 인프라와 보안의 세계를 즐겁게 탐구하며 오늘도 성장 중!
+<p align="right">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fikarams.github.io&count_bg=%23007ACC&title_bg=%231E1E1E&icon=security&icon_color=%23FFFFFF&title=Verified_Access&edge_flat=false&style=for-the-badge" />
+</p>
+
+### 🛰️ System Identification: "Rachel"
+> **"Securing the future with the energy of April."**
+> 제 메인 시스템 **'Rachel'**과 함께 인프라 보안과 취약점 분석의 세계를 탐구합니다. 아티스트 Rachel의 긍정적인 에너지를 기술적 완벽함으로 승화시키는 것이 제 목표입니다.
 
 ---
 
-### 🌸 About Me: Hello!
-에이프릴(APRIL)의 노래처럼, 듣는 이에게 기분 좋은 에너지를 주는 IT 엔지니어를 꿈꾸는 Ikarams입니다. 
-Linux Server 관리부터 Azure Cloud Security까지, 하나하나 제 것으로 만들어가고 있습니다.
+### 🔍 Technical Focus
+- **Infrastructure Security:** Linux 기반 서버 요새화 및 Azure 클라우드 아키텍처 보안
+- **Network Analysis:** Cisco 장비 및 트래픽 분석을 통한 위협 탐지
+- **Automated DevSecOps:** CI/CD 파이프라인 내 보안 취약점 자동 점검
 
 ---
 
+### 🛠️ Professional Arsenal (Tech Stacks)
 
-
-
----
-
-## 🌸 Projects & Labs (Dream Candy)
-* **[C-Calculator](https://github.com/ikarams)** * `C`, `Makefile`, `GitHub Actions`
-    * GitHub Actions를 이용한 자동 빌드/테스트 파이프라인(CI/CD) 구축 및 테스트 자동화로 코드 안정성 확보
-* **[Cloud Sync Project](https://github.com/ikarams)** * `rsync`, `cloud-init`, `Azure`
-    * rsync와 cloud-init을 활용하여 지역 간 서버 데이터 이중화 및 자동화 구현 실습
+| Classification | Technologies |
+| :--- | :--- |
+| **Security & Network** | ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-049BCC?style=for-the-badge&logo=cisco&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) |
+| **Cloud & Ops** | ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
+| **Development** | ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
 ---
 
-## 🌸 Tech Stacks (April Yellow Edition)
-
-| Domain | Technologies |
-| :---: | :--- |
-| **System & Cloud** | [![Linux](https://img.shields.io/badge/Linux-FFD700?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/) [![Azure](https://img.shields.io/badge/Azure-FFED00?style=for-the-badge&logo=microsoft-azure&logoColor=black)](https://azure.microsoft.com/ko-kr/get-started/azure-portal) |
-| **Network & Security** | [![Cisco](https://img.shields.io/badge/Cisco-F7DC6F?style=for-the-badge&logo=cisco&logoColor=black)](https://www.netacad.com/) [![Kali](https://img.shields.io/badge/Kali_Linux-F4D03F?style=for-the-badge&logo=kali-linux&logoColor=black)](https://www.kali.org/) |
-| **Programming** | [![C](https://img.shields.io/badge/C-FCF3CF?style=for-the-badge&logo=c&logoColor=black)](https://en.cppreference.com/w/c) [![Python](https://img.shields.io/badge/Python-FEF9E7?style=for-the-badge&logo=python&logoColor=black)](https://www.python.org/) |
-
-* *포인트: 모든 배지 색상을 에이프릴의 상징인 노란색 계열로 통일하여 'Yellow Edition'의 정체성을 시각화했습니다.*
+### 📂 Operational Labs
+* **[C-Calculator CI/CD](https://github.com/ikarams)**
+    - C언어 알고리즘 기반 계산기의 자동 빌드 및 단위 테스트 자동화 
+    - `GitHub Actions`를 활용한 코드 무결성 검증 프로세스 구축
+* **[Cloud-init Sync Project](https://github.com/ikarams)**
+    - `Azure` 환경에서 `rsync`를 이용한 지역 간 데이터 동기화 및 백업 자동화
+    - 인프라 장애 대응을 위한 이중화 아키텍처 실습
 
 ---
 
-### 🌸 Current Progress
-- 📝 **Certification:** 정보처리기사 필기 열공 중 (`Progress: 70%`)
-- 💻 **Project:** C언어 계산기 CI/CD 파이프라인 고도화
+### 📈 Mission Status (2026)
+- 📝 **Certification:** 정보처리기사 (Current Progress: `[███████---] 70%`)
+- 🛡️ **Challenge:** Linux Master Level 2 & CISCO ACADEMY Certification
+- ⚙️ **Project:** C언어 계산기 파이프라인 보안 취약점 스캐닝 모듈 추가 중
 
-- ### 🌸 Goals & Challenges (2026)
-- [ ] 🛡️ **정보처리기사 필기 도전** 
-- [ ] ⚙️ **Linux Master Level 2** 실기 준비중
-- [ ] ☁️ **CISCO ACADEMY 수료증** 진행중
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ikarams&show_icons=true&theme=tokyonight&hide_border=true" alt="Ikarams Stats" />
+</p>
