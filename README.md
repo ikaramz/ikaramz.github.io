@@ -50,4 +50,4 @@ Linux Server 관리부터 Azure Cloud Security까지, 하나하나 제 것으로
 - ### 🌸 Goals & Challenges (2026)
 - [ ] 🛡️ **정보처리기사 필기 도전** 
 - [ ] ⚙️ **Linux Master Level 2** 실기 준비중
-- [ ] ☁️ **CISCO ACADEMY 수료증** 도전 예정
+- [ ] ☁️ **CISCO ACADEMY 수료증** 진행중
