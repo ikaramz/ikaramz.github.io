@@ -51,9 +51,7 @@
 ### 📊 GitHub Activity Snapshot
 
 <p align="center">
-  <img src="https://stardis-stats.vercel.app/api?username=ikarams&show_icons=true&theme=tokyonight" alt="Ikarams Stats" />
-</p>
-
-<p align="center">
-  <img src="https://stardis-stats.vercel.app/api/top-langs/?username=ikarams&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://img.shields.io/badge/GitHub-Stats-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/followers/ikarams?label=Followers&style=for-the-badge&color=007ACC" />
+  <img src="https://img.shields.io/github/stars/ikarams?label=Stars&style=for-the-badge&color=FFEA00" />
 </p>
