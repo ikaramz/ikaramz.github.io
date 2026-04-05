@@ -47,6 +47,13 @@
 - ⚙️ **Project:** C언어 계산기 파이프라인 보안 취약점 스캐닝 모듈 추가 중
 
 ---
+
+### 📊 GitHub Activity Snapshot
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikarams&show_icons=true&theme=tokyonight&hide_border=true" alt="Ikarams Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ikarams&show_icons=true&theme=tokyonight&hide_border=false" alt="Ikarams Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikarams&layout=compact&theme=tokyonight&hide_border=false" alt="Top Langs" />
 </p>
