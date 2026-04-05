@@ -5,7 +5,7 @@
 </p>
 
 <p align="right">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fikarams.github.io&count_bg=%23007ACC&title_bg=%231E1E1E&icon=security&icon_color=%23FFFFFF&title=Verified_Access&edge_flat=false&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=ikarams&color=007acc&style=for-the-badge&label=VISITORS" alt="Visitors" />
 </p>
 
 ### 🛰️ System Identification: "Rachel"
@@ -52,8 +52,4 @@
 
 <p align="center">
   <a href="https://github.com/ikarams"><img src="https://img.shields.io/badge/Followers-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="Followers"></a><a href="https://github.com/ikarams?tab=stars"><img src="https://img.shields.io/badge/Stars-FFEA00?style=for-the-badge&logo=github&logoColor=black" alt="Stars"></a><a href="https://github.com/ikarams?tab=repositories"><img src="https://img.shields.io/badge/Repositories-2496ED?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ikarams&color=007acc&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
