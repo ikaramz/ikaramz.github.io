@@ -37,7 +37,7 @@
     - `GitHub Actions`를 활용한 코드 무결성 검증 프로세스 구축
 * **[Cloud-init Sync Project](https://github.com/ikarams)**
     - `Azure` 환경에서 `rsync`를 이용한 지역 간 데이터 동기화 및 백업 자동화
-    - 인프라 장애 대응을 위한 이중화 아키텍처 실습
+    - Infra 장애 대응을 위한 이중화 아키텍처 실습
 
 ---
 
