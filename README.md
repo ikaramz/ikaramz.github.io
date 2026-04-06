@@ -10,14 +10,14 @@
 
 ### 🛰️ System Identification: "Rachel"
 > **"Securing the future with the energy of April."**
-> 제 메인 시스템 **'Rachel'**과 함께 인프라 보안과 취약점 분석의 세계를 탐구합니다. 아티스트 Rachel의 긍정적인 에너지를 기술적 완벽함으로 승화시키는 것이 제 목표입니다.
+> 제 메인 시스템 **'Rachel'**과 함께 Infra Security과 취약점 분석의 세계를 탐구합니다. 아티스트 Rachel의 긍정적인 에너지를 기술적 완벽함으로 승화시키는 것이 제 목표입니다.
 
 ---
 
 ### 🔍 Technical Focus
 - **Infrastructure Security:** Linux 기반 서버 요새화 및 Azure Cloud 아키텍처 보안
 - **Network Analysis:** Cisco 장비 및 트래픽 분석을 통한 위협 탐지
-- **Automated DevSecOps:** CI/CD 파이프라인 내 보안 취약점 자동 점검
+- **Automated DevSecOps:** CI/CD Pipeline 내 보안 취약점 자동 점검
 
 ---
 
