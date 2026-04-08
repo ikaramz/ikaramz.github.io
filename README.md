@@ -44,7 +44,7 @@
 ### 📈 Mission Status (2026)
 - 📝 **Certification:** 정보처리기사 (Current Progress: `[███████---] 70%`)
 - 🛡️ **Challenge:** Linux Master Level 2 & CISCO ACADEMY Certification
-- ⚙️ **Project:** C언어 계산기 파이프라인 보안 취약점 스캐닝 모듈 추가 ??
+- ⚙️ **Project:** C언어 Calc Pipeline Security 취약점 스캐닝 모듈 추가 ??
 - 🛠️ **Practical Skills:** 정보기기운용기능사 실기 대비 (네트워크 설정 및 장비 유지보수)
 
 ---
