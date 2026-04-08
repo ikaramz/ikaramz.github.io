@@ -36,7 +36,7 @@
     - C언어 알고리즘 기반 계산기의 자동 빌드 및 Unit Test 자동화 
     - `GitHub Actions`를 활용한 Code 무결성 검증 프로세스 구축
 * **[Cloud-init Sync Project](https://github.com/ikarams)**
-    - `Azure` 환경에서 `rsync`를 이용한 지역 간 데이터 동기화 및 백업 자동화
+    - `Azure` 환경에서 `rsync`를 이용한 지역 간 data 동기화 및 백업 자동화
     - Infra 장애 대응을 위한 이중화 아키텍처 실습
 
 ---
