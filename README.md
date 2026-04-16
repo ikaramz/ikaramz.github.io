@@ -37,14 +37,14 @@
     - `GitHub Actions`를 활용한 Code 무결성 검증 Process 구축
 * **[Cloud-init Sync Project](https://github.com/ikarams)**
     - `Azure` 환경에서 `rsync`를 이용한 지역 간 data 동기화 및 Backup 자동화
-    - Infra 장애 대응을 위한 이중화 아키텍처 실습
+    - Infra 장애 대응을 위한 이중화 Architecture 실습
 
 ---
 
 ### 📈 Mission Status (2026)
 - 📝 **Certification:** 정보처리기사 (Current Progress: `[███████---] 70%`)
 - 🛡️ **Challenge:** Linux Master Level 2 & CISCO ACADEMY Certification
-- ⚙️ **Project:** C언어 Calc Pipeline Security 취약점 스캐닝 모듈 추가 ??
+- ⚙️ **Project:** C언어 Calc Pipeline Security 취약점 Scanning Module 추가 ??
 - 🛠️ **Practical Skills:** 정보기기운용기능사 실기 대비 (네트워크 설정 및 장비 유지보수)
 
 ---
