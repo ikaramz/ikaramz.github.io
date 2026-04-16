@@ -15,7 +15,7 @@
 ---
 
 ### 🔍 Technical Focus
-- **Infrastructure Security:** Linux 기반 Server 요새화 및 Azure Cloud Architecture Security
+- **Infrastructure Security:** Fortifying Linux Servers 및 Azure Cloud Architecture Security
 - **Network Analysis:** Cisco 장비 및 트래픽 분석을 통한 위협 탐지
 - **Automated DevSecOps:** Automated security vulnerability scanning in the CI/CD pipeline
 
