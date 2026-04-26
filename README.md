@@ -10,7 +10,7 @@
 
 ### 🛰️ System Identification: "Rachel"
 > **"Securing the future with the energy of April."**
-> The Main System  **'Rachel'**과 함께 Infra Security과 취약점 분석의 World를 탐구합니다. My mission is to sublimate Artist Rachel's positive energy into technical perfection
+> The Main System  'Rachel' 과 함께 Infra Security과 취약점 분석의 World를 탐구합니다. My mission is to sublimate Artist Rachel's positive energy into technical perfection
 
 ---
 
