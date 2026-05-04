@@ -49,6 +49,41 @@
 - I'm pursing an NCP Security certification to enhance my skill set.
 ---
 
+<details>
+<summary><b>🎓 View CISCO Academy Completion Details (CSS 6)</b></summary>
+<br>
+
+<table style="width: 100%;">
+  <tr style="background-color: #f8f9fa;">
+    <th align="center">Course Title</th>
+    <th align="center">Period</th>
+    <th align="center">Status</th>
+  </tr>
+  <tr>
+    <td><b>CCNA 1, 2, 3 Full Series</b></td>
+    <td align="center">2025.12 - 2026.05</td>
+    <td align="center"><b>✅ Completed</b></td>
+  </tr>
+  <tr>
+    <td><b>DevNet Associate</b></td>
+    <td align="center">2025.12 - 2026.05</td>
+    <td align="center"><b>✅ Completed</b></td>
+  </tr>
+  <tr>
+    <td><b>CyberOps Associate</b></td>
+    <td align="center">2025.12 - 2026.05</td>
+    <td align="center"><b>✅ Completed</b></td>
+  </tr>
+</table>
+
+<p align="right"><i>Certified by Human Resources Development Service of Korea</i></p>
+</details>
+
+
+
+
+---
+
 ### 📊 GitHub Activity Snapshot
 
 <p align="center">
