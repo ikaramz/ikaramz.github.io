@@ -3,7 +3,7 @@
 
 <p align="center">
   <!-- 신규 생성된 전문성 강조 로고 이미지 적용 -->
-<img width="1838" height="560" alt="April ikaramz" src="https://github.com/user-attachments/assets/27b04c1e-81b1-4dd5-83cf-2e63d6227863" />
+<img width="1838" height="560" alt="APRIL Ikarams" src="https://github.com/user-attachments/assets/9a4fe764-d138-4562-b263-6b4cdf6c44cb" />
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=ikarams&color=007acc&style=for-the-badge&label=VISITORS" alt="Visitors" />
