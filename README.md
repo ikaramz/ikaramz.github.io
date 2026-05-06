@@ -34,7 +34,7 @@
 ### 📂 Operational Labs
 * **[C-Calculator CI/CD](https://github.com/ikarams)**
     - CI automation for C algorithm calculators: Automated build and unit test integration.
-    - `GitHub Actions`를 활용한 Code 무결성 검증 Process 구축
+    - Establishing a Code Integrity Verification Process using GitHub Actions
 * **[Cloud-init Sync Project](https://github.com/ikarams)**
     - `Azure` 환경에서 `rsync`를 이용한 지역 간 data 동기화 및 Backup 자동화
     - Infra 장애 대응을 위한 이중화 Architecture 실습
