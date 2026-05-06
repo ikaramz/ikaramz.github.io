@@ -1,9 +1,9 @@
+
 # 🛡️ Ikarams | Cybersecurity & Infra Specialist
 
 <p align="center">
   <!-- 신규 생성된 전문성 강조 로고 이미지 적용 -->
-  <img src="watermarked_img_16913477277945459589.png" width="100%" alt="APRIL Ikarams Cybersecurity & Cloud Infrastructure">
-</p>
+<img width="1838" height="560" alt="April ikaramz" src="https://github.com/user-attachments/assets/27b04c1e-81b1-4dd5-83cf-2e63d6227863" />
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=ikarams&color=007acc&style=for-the-badge&label=VISITORS" alt="Visitors" />
