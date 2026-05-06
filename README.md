@@ -1,7 +1,8 @@
 # 🛡️ Ikarams | Cybersecurity & Infra Specialist
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/305f76cf-5844-4c70-8150-5e22a552820d" width="100%" alt="APRIL Ikarams Security Logo">
+  <!-- 신규 생성된 전문성 강조 로고 이미지 적용 -->
+  <img src="watermarked_img_16913477277945459589.png" width="100%" alt="APRIL Ikarams Cybersecurity & Cloud Infrastructure">
 </p>
 
 <p align="right">
