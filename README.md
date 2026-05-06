@@ -36,7 +36,7 @@
     - CI automation for C algorithm calculators: Automated build and unit test integration.
     - Establishing a Code Integrity Verification Process using GitHub Actions
 * **[Cloud-init Sync Project](https://github.com/ikarams)**
-    - `Azure` 환경에서 `rsync`를 이용한 지역 간 data 동기화 및 Backup 자동화
+    - Data Synchronization and Backup Automation between Azure Regions with rsync
     - Infra 장애 대응을 위한 이중화 Architecture 실습
 
 ---
