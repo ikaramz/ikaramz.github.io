@@ -38,7 +38,7 @@
     - Establishing a Code Integrity Verification Process using GitHub Actions
 * **[Cloud-init Sync Project](https://github.com/ikarams)**
     - Data Synchronization and Backup Automation between Azure Regions with rsync
-    - Infra 장애 대응을 위한 이중화 Architecture 실습
+    - Redundancy Architecture Practice for Infrastructure Incident Response
 
 ---
 
