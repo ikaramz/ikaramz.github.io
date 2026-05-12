@@ -42,12 +42,20 @@
 
 ---
 
-### 📈 Mission Status (2026)
-- 📝 **Certification:** 정보처리기사 (Current Progress: `[███████---] 70%`)
-- 🛡️ **Challenge:** Linux Master Level 2 
-- ⚙️ **Project:** C language Calc Pipeline Security 취약점 Scanning Module addition
-- 🛠️ **Practical Skills:** 정보기기운용기능사 실기 대비 ( Network Configuration 및 장비 유지보수)
-- I'm pursing an NCP Security certification to enhance my skill set.
+🏆 Milestones & Achievements
+[2026.05] 정보기기운용기능사 필기 합격 (Written Exam Passed) * Next Step: 실기 시험(Network Configuration) 준비 중
+
+[2026.05] CISCO Academy 3종 수료 (CCNA, DevNet, CyberOps)
+
+Credential: Human Resources Development Service of Korea
+
+📈 Ongoing Missions
+📝 Certification: 정보처리기사 (Current Progress: [███████---] 70%)
+
+🛡️ Challenge: Linux Master Level 2 & NCP Security Certification
+
+⚙️ Project: C language Calc Pipeline Security Scanning Module
+
 ---
 
 <details>
