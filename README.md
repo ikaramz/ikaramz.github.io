@@ -42,23 +42,21 @@
 
 ---
 
----
-
 ### 🏆 Milestones & Achievements
-> "지속적인 학습을 통해 인프라 및 보안 역량을 증명하고 있습니다."
+> **"Turning passion into protection, one milestone at a time."**
 
-* **[2026.05]** **정보기기운용기능사 필기 합격** (Written Exam Passed)
-    * *Status:* 실기 시험(Network Configuration) 대비 중
-* **[2026.05]** **CISCO Academy 3종 수료** (CCNA, DevNet, CyberOps)
-    * *Issuer:* Human Resources Development Service of Korea
-* **[2026.04]** **Solaris 11 보안 취약점 진단 프로젝트 완료** (KISA 가이드 기준)
+* 💛 **[2026.05]** **정보기기운용기능사 필기 합격** (Written Exam Passed)
+    * └ *Next Step:* 실기 시험(Network Configuration & Maintenance) 준비 중
+* 💛 **[2026.05]** **CISCO Academy 3종 수료** (CCNA, DevNet, CyberOps)
+    * └ *Certified by:* Human Resources Development Service of Korea
+* 💛 **[2026.04]** **Solaris 11 보안 취약점 진단 자동화 수행** (KISA 기준)
 
 ---
 
 ### 📈 Ongoing Missions
-- 📝 **Certification:** 정보처리기사 (Current Progress: `[███████---] 70%`)
-- 🛡️ **Challenge:** Linux Master Level 2 & NCP Security Certification
-- ⚙️ **Project:** C language Calc Pipeline Security Scanning Module
+- ✨ **Certification:** 정보처리기사 (Current Progress: `[███████---] 70%`)
+- ✨ **Challenge:** Linux Master Level 2 & NCP Security Certification
+- ✨ **Project:** C language Calc Pipeline Security Scanning Module 추가
 
 ---
 
