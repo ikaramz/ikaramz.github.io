@@ -1,8 +1,9 @@
-
-# 🛡️ Ikarams | Cybersecurity & Infra Specialist
+<table bgcolor="#F3E5F5" width="100%">
+<tr>
+<td>
+<font color="#24292e"> # 🛡️ Ikarams | Cybersecurity & Infra Specialist
 
 <p align="center">
-  <!-- 신규 생성된 전문성 강조 로고 이미지 적용 -->
 <img width="1838" height="560" alt="APRIL Ikarams" src="https://github.com/user-attachments/assets/9a4fe764-d138-4562-b263-6b4cdf6c44cb" />
 
 <p align="right">
@@ -64,8 +65,7 @@
 <summary><b>🎓 View CISCO Academy Completion Details (CSS 6)</b></summary>
 <br>
 
-<table style="width: 100%;">
-  <tr style="background-color: #f8f9fa;">
+<table style="width: 100%;" bgcolor="#ffffff"> <tr style="background-color: #f8f9fa;">
     <th align="center">Course Title</th>
     <th align="center">Period</th>
     <th align="center">Status</th>
@@ -86,19 +86,17 @@
     <td align="center"><b>✅ Completed</b></td>
   </tr>
 </table>
-
 <p align="right"><i>Certified by Human Resources Development Service of Korea</i></p>
 </details>
-
-
-
 
 ---
 
 ### 📊 GitHub Activity Snapshot
 
 <p align="center">
-  <a href="https://github.com/ikarams"><img src="https://img.shields.io/badge/Followers-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="Followers"></a><a href="https://github.com/ikarams?tab=stars"><img src="https://img.shields.io/badge/Stars-FFEA00?style=for-the-badge&logo=github&logoColor=black" alt="Stars"></a><a href="https://github.com/ikarams?tab=repositories"><img src="https://img.shields.io/badge/Repositories-2496ED?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
+  <a href="https://github.com/ikarams"><img src="https://img.shields.io/badge/Followers-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="Followers"></a>
+  <a href="https://github.com/ikarams?tab=stars"><img src="https://img.shields.io/badge/Stars-FFEA00?style=for-the-badge&logo=github&logoColor=black" alt="Stars"></a>
+  <a href="https://github.com/ikarams?tab=repositories"><img src="https://img.shields.io/badge/Repositories-2496ED?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
 </p>
 
 <br />
@@ -107,4 +105,7 @@
   <i>"Turning inspiration into infrastructure, and passion into protection."</i>
 </p>
 
----
+</font>
+</td>
+</tr>
+</table>
