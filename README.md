@@ -58,7 +58,7 @@
 
 ### 📈 Ongoing Missions
 - ✨ **Certification:** 정보처리기사 (Current Progress: `[███████---] 70%`)
-- ✨ **Challenge:** Linux Master Level 2 & NCP Security Certification
+- ✨ **Challenge:** Linux Master Level 2 & NCP Naver Security Certification
 - ✨ **Project:** C language Calc Pipeline Security Scanning Module 추가
 
 ---
