@@ -45,6 +45,14 @@
 
 ---
 
+### 📈 Ongoing Missions
+- ✨ **Certification:** 정보처리기사 (Current Progress: `[███████---] 70%`)
+- ✨ **Challenge:** Linux Master Level 2 & NCP Naver Security Certification
+- ✨ **Project:** C language Calc Pipeline Security Scanning Module 추가
+
+---
+
+
 ### 🏆 Milestones & Achievements
 > **"Turning passion into protection, one milestone at a time."**
 
@@ -54,12 +62,6 @@
     * └ *Certified by:* Human Resources Development Service of Korea
 * 💛 **[2026.04]** **Solaris 11 보안 취약점 진단 자동화 수행** (KISA 기준)
 
----
-
-### 📈 Ongoing Missions
-- ✨ **Certification:** 정보처리기사 (Current Progress: `[███████---] 70%`)
-- ✨ **Challenge:** Linux Master Level 2 & NCP Naver Security Certification
-- ✨ **Project:** C language Calc Pipeline Security Scanning Module 추가
 
 ---
 
