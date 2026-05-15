@@ -1,16 +1,45 @@
-<table bgcolor="#F3E5F5" width="100%">
-<tr>
-<td>
-<font color="#24292e">
-
 # 🛡️ Ikarams | Cybersecurity & Infra Specialist
 
 <p align="center">
-  <img width="100%" alt="APRIL Ikarams Rachel Theme" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbcM9nZ%2FbtsLTN6u7Hj%2Fk6K6K6K6K6K6K6K6K6K6K1%2Fimg.png" />
+  <img src="https://github.com/user-attachments/assets/5750392b-f207-46d7-8031-9b74fa494a8c" width="100%" alt="APRIL Ikarams Rachel Theme" />
 </p>
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=ikarams&color=FFEA00&style=for-the-badge&label=VISITORS" alt="Visitors" />
+</p>
+
+---
+
+### 🏛️ System Architecture Vision
+> **"Striving for a transparent and flawless system architecture, inspired by the clarity of Na-yeon Seong’s vocals."**
+> <br>*(성나연의 맑은 음색에서 영감을 받아, 투명하고 결함 없는 시스템 아키텍처를 지향합니다.)*
+
+---
+
+### 📊 GitHub Activity Snapshot 🍒
+
+<p align="center">
+  <a href="https://github.com/ikarams">
+    <img src="https://img.shields.io/badge/Followers-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="Followers">
+  </a>
+  &nbsp;
+  <a href="https://github.com/ikarams?tab=stars">
+    <img src="https://img.shields.io/badge/Stars-FFEA00?style=for-the-badge&logo=github&logoColor=black" alt="Stars">
+  </a>
+  &nbsp;
+  <a href="https://github.com/ikarams?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-FFB7C5?style=for-the-badge&logo=github&logoColor=black" alt="Repositories">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ikarams&show_icons=true&theme=calm&bg_color=ffffff&title_color=ffea00&icon_color=ffea00&text_color=555555&border_color=ffea00" alt="Ikarams's GitHub stats" />
+</p>
+
+<p align="center">
+  <i>"Capturing every moment with clarity, as vivid and flawless as a cherry."</i>
+  <br>
+  <i>(체리처럼 선명하고 빈틈없이, 모든 기록을 투명하게 담아냅니다. 🍒✨)</i>
 </p>
 
 ### 🛡️ Ikarams | Securing the Digital World
