@@ -12,44 +12,28 @@
 
 ### 🏛️ System Architecture Vision
 > **"Striving for a transparent and flawless system architecture, inspired by the clarity of Na-yeon Seong’s vocals."**
-> <br>*(성나연의 맑은 음색에서 영감을 받아, 투명하고 결함 없는 시스템 아키텍처를 지향합니다.)*
 
 ---
 
-### 🛡️ Ikarams | Securing the Digital World
-🌻 **Inspired by Artist Rachel (Seong Na-yeon)**
+🌻 Technical Harmony with Rachel (Seong Na-yeon)
+🏗️ Infrastructure Security: "The Pure & Warm Shell"
+Fortifying Linux Servers & Azure Cloud Architecture 🛡️☁️
 
-> "Where cold security meets the warmth of April."
+"As radiant as her Blooming Smile (웃음꽃)" 🌻
+I strive for a 'Pure White' server environment, free from unnecessary risks, much like Rachel’s crystal-clear smile. Just as the April sun melts the frost, I build cloud architectures that are both rock-solid and welcoming, ensuring the foundation is as bright and stable as her presence.
 
-I strive for technical perfection by channeling Rachel's positive energy into my security architecture. Just as her smile brightens the world, I aim to create airtight firewalls within every log and packet.
+📡 Network Analysis: "The Melodic Detection"
+Cisco Security Monitoring & Threat Detection 🔍🛡️
 
-### 🛡️ Ikarams | Securing the Digital World
-🌻 **Inspired by Artist Rachel (Seong Na-yeon)**
+"As graceful as her Ballet performance" 🩰
+"Every packet is a note, every log is a lyric." 🎶
+Monitoring network traffic is like watching Rachel’s delicate and precise ballet movements. I tune the 'Harmony of Safety' by analyzing assets and threats, making sure the network remains as harmonious and beautiful as an April melody.
 
-> "Where cold security meets the warmth of April."
+🚀 Automated DevSecOps: "The Agile Spring-Step"
+Automated Security Scanning in the CI/CD Pipeline ⚙️⚡
 
-I strive for technical perfection by channeling Rachel's positive energy into my security architecture. Just as her smile brightens the world, I aim to create airtight firewalls within every log and packet.
-
-### 🛡️ Ikarams | Securing the Digital World
-🌻 **Inspired by Artist Rachel (Seong Na-yeon)**
-
-> "Where cold security meets the warmth of April."
-
-I strive for technical perfection by channeling Rachel's positive energy into my security architecture. Just as her smile brightens the world, I aim to create airtight firewalls within every log and packet.
-
-### 🛡️ Ikarams | Securing the Digital World
-🌻 Inspired by Artist Rachel
-
-"Where cold security meets the warmth of April."
-
-I strive for technical perfection by channeling Rachel’s positive energy into my security architecture. Just as her smile brightens the world, I aim to create airtight firewalls within every log and packet.
-
----
-
-### 🔍 Technical Focus
-- **Infrastructure Security:** Fortifying Linux Servers 및 Azure Cloud Architecture Security
-- **Network Analysis:** Cisco Security Monitoring and Threat Detection via Traffic and Asset Analysis
-- **Automated DevSecOps:** Automated security vulnerability scanning in the CI/CD pipeline
+"As nimble as the 'Ram-jwi' (Squirrel)" 🐿️🍒
+I track down vulnerabilities with the agile precision of 'Ram-jwi', her famous nickname. Much like a sweet Cherry, I implement refreshing automated scans that dissolve threats like spring sunshine, ensuring a seamless and 'sweet' flow in the development pipeline.
 
 ---
 
