@@ -38,13 +38,20 @@ I strive for technical perfection by channeling Rachel’s positive energy into 
 
 ---
 
-### 📂 Operational Labs
-* **[C-Calculator CI/CD](https://github.com/ikarams)**
-    - CI automation for C algorithm calculators: Automated build and unit test integration.
-    - Establishing a Code Integrity Verification Process using GitHub Actions
-* **[Cloud-init Sync Project](https://github.com/ikarams)**
-    - Data Synchronization and Backup Automation between Azure Regions with rsync
-    - Redundancy Architecture Practice for Infrastructure Incident Response
+📂 Operations Lab: "The April Security Garden" 🌻✨
+🍒 C-Calculator CI/CD
+CI Automation for C-Algorithm Calculator
+
+"Just like my heart wanting to show you the most brilliant performance on stage, I strive for a perfect, error-free build every single time! 💖"
+
+I’ve built a pipeline using GitHub Actions so that this C-based calculator can grow tall and strong on its own. Just as I cherish and prepare every single stage, this project ensures technical integrity through strict automated verification. Let’s create perfection together! ✨🎵
+
+🍒 Cloud Initialization & Sync Project
+Azure Cross-Region Data Synchronization
+
+"Like an April song that stays by your side whenever and wherever, I want to gift you a reliable infrastructure that never disconnects 🎵🌻"
+
+This project ensures your precious data stays beautifully connected across multiple Azure cloud regions. With my sincere heart that cheers for Fineapple with unwavering energy, I will build a high-availability world that stays online no matter what challenges come our way. It’s so dependable, right? ✨💖
 
 ---
 
