@@ -93,7 +93,7 @@ Description: Striving for zero-error security scanning, reflecting the perfectio
 ---
 
 ### 🛰️ Infrastructure & Security Training Path
-> *성나연의 맑은 음색처럼 투명하고 결함 없는 시스템 아키텍처를 지향합니다.*
+> *Reflecting the pure resonance of Na-yeon Seong into transparent, fault-tolerant system design.*
 
 <details>
 <summary><b>🎓 View CISCO Academy Completion Details (CSS 6)</b></summary>
