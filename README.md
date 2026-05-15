@@ -6,7 +6,7 @@
 # 🛡️ Ikarams | Cybersecurity & Infra Specialist
 
 <p align="center">
-  <img width="100%" alt="APRIL Ikarams Rachel Theme" src="여기에_이미지_주소를_복사하세요" />
+  <img width="100%" alt="APRIL Ikarams Rachel Theme" src="C:\Users\secu-22\Downloads" />
 </p>
 
 <p align="right">
