@@ -6,10 +6,11 @@
 # 🛡️ Ikarams | Cybersecurity & Infra Specialist
 
 <p align="center">
-<img width="1838" height="560" alt="APRIL Ikarams" src="https://github.com/user-attachments/assets/9a4fe764-d138-4562-b263-6b4cdf6c44cb" />
+  <img width="100%" alt="APRIL Ikarams Rachel Theme" src="여기에_이미지_주소를_복사하세요" />
+</p>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=ikarams&color=007acc&style=for-the-badge&label=VISITORS" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=ikarams&color=FFEA00&style=for-the-badge&label=VISITORS" alt="Visitors" />
 </p>
 
 ### 🛡️ Ikarams | Securing the Digital World
