@@ -55,10 +55,27 @@ This project ensures your precious data stays beautifully connected across multi
 
 ---
 
-### 📈 Ongoing Missions
-- ✨ **Certification:** 정보처리기사 (Current Progress: `[███████---] 70%`)
-- ✨ **Challenge:** Linux Master Level 2 & NCP Naver Security Certification
-- ✨ **Project:** C language Calc Pipeline Security Scanning Module 추가
+📈 Ongoing Missions (Current Progress) ✨
+📝 Information Processing Engineer
+[🌻🌻🌻🌻🌻🌻🌻---] 70% (Blooming...)
+
+Status: A fundamental stage of sowing the seeds of technical knowledge to build a solid expertise.
+
+Goal: Aiming for the full bloom (100%) of professional certification, inspired by the fresh start and bright future of Na-yeon Seong.
+
+🛡️ Future Challenges
+Linux Master & NCP Security Certification
+
+Vision: To build a transparent and robust security infrastructure, as clear and pure as Na-yeon Seong's crystalline vocals.
+
+Focus: Strengthening core Linux skills and Cloud security capabilities to achieve uninterrupted service availability.
+
+🚀 Current Project
+C-based Calc Pipeline Security Scanning Module
+
+Mission: Achieving code integrity that is as vivid and flawless as a cherry. 🍒
+
+Description: Striving for zero-error security scanning, reflecting the perfection of Na-yeon Seong’s stage performances. This module detects vulnerabilities within C-based pipelines to build a defense wall that remains unshakable against any threat.
 
 ---
 
