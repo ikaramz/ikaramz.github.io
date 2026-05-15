@@ -133,7 +133,7 @@ Description: Striving for zero-error security scanning, reflecting the perfectio
 
 ---
 
-### 📊 GitHub Activity Snapshot 🍒
+#### 📊 GitHub Activity Snapshot 🍒
 
 <p align="center">
   <a href="https://github.com/ikarams">
@@ -150,12 +150,11 @@ Description: Striving for zero-error security scanning, reflecting the perfectio
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikarams&show_icons=true&theme=vivid+orange&bg_color=ffffff&title_color=ffea00&icon_color=ffea00&text_color=555555&border_color=ffea00" alt="Ikarams's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ikarams&show_icons=true&theme=default&title_color=ffea00&icon_color=ffea00&border_color=ffea00&bg_color=ffffff" alt="Ikarams's GitHub stats" />
 </p>
 
 <p align="center">
-  <i>"Capturing every moment with clarity, as vivid and flawless as a cherry."</i>
+  <i>"Capturing every moment with clarity, as vivid and flawless as a cherry." 🍒✨ </i>
   <br>
-  <i>(체리처럼 선명하고 빈틈없이, 모든 기록을 투명하게 담아냅니다. 🍒✨)</i>
+  
 </p>
-
