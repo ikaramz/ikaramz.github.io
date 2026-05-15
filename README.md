@@ -12,9 +12,12 @@
   <img src="https://komarev.com/ghpvc/?username=ikarams&color=007acc&style=for-the-badge&label=VISITORS" alt="Visitors" />
 </p>
 
-### 🛰️ System Identification: "Rachel"
-> **"Securing the future with the energy of April."**
-> Discovering the world of security and vulnerability analysis, hand in hand with Rachel. My mission is to sublimate Artist Rachel's positive energy into technical perfection
+### 🛡️ Ikarams | Securing the Digital World
+🌻 Inspired by Artist Rachel
+
+"Where cold security meets the warmth of April."
+
+I strive for technical perfection by channeling Rachel’s positive energy into my security architecture. Just as her smile brightens the world, I aim to create airtight firewalls within every log and packet.
 
 ---
 
