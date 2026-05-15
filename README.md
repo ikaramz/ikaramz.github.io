@@ -133,29 +133,3 @@ Description: Striving for zero-error security scanning, reflecting the perfectio
 
 ---
 
-### 📊 GitHub Activity Snapshot 🍒
-
-<p align="center">
-  <!-- Followers: 맑고 깨끗한 이미지 -->
-  <a href="https://github.com/ikarams">
-    <img src="https://img.shields.io/badge/Followers-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="Followers">
-  </a>
-  <!-- Stars: 성나연 상징색 Yellow -->
-  <a href="https://github.com/ikarams?tab=stars">
-    <img src="https://img.shields.io/badge/Stars-FFEA00?style=for-the-badge&logo=github&logoColor=black" alt="Stars">
-  </a>
-  <!-- Repositories: 체리 포인트 -->
-  <a href="https://github.com/ikarams?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-FFB7C5?style=for-the-badge&logo=github&logoColor=black" alt="Repositories">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikarams&show_icons=true&theme=calm&bg_color=ffffff&title_color=ffea00&icon_color=ffea00&text_color=555555&border_color=ffea00" alt="Ikarams's GitHub stats" />
-</p>
-
-<p align="center">
-  <i>"Capturing every moment with clarity, as vivid and flawless as a cherry."</i>
-  <br>
-  <i>(체리처럼 선명하고 빈틈없이, 모든 기록을 투명하게 담아냅니다. 🍒✨)</i>
-</p>
