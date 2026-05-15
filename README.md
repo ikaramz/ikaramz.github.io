@@ -92,7 +92,8 @@ Description: Striving for zero-error security scanning, reflecting the perfectio
 
 ---
 
-### 🛰️ 아티스트 성나연의 빛나는 퍼포먼스처럼, 완벽하게 이수한 교육 과정
+### 🛰️ Infrastructure & Security Training Path
+> *성나연의 맑은 음색처럼 투명하고 결함 없는 시스템 아키텍처를 지향합니다.*
 
 <details>
 <summary><b>🎓 View CISCO Academy Completion Details (CSS 6)</b></summary>
@@ -100,8 +101,8 @@ Description: Striving for zero-error security scanning, reflecting the perfectio
 
 <table style="width: 100%; border-collapse: collapse;">
   <thead>
-    <tr style="background-color: #fff9fb; border-bottom: 2px solid #ffea00;">
-      <th align="center" style="padding: 10px;">✨ Course Title</th>
+    <tr style="background-color: #fcfcfc; border-bottom: 2px solid #ffea00;">
+      <th align="center" style="padding: 10px;">Classification</th>
       <th align="center" style="padding: 10px;">Period</th>
       <th align="center" style="padding: 10px;">Status</th>
     </tr>
@@ -110,24 +111,21 @@ Description: Striving for zero-error security scanning, reflecting the perfectio
     <tr>
       <td style="padding: 10px;"><b>🍒 CCNA 1, 2, 3 Full Series</b></td>
       <td align="center" style="padding: 10px;">2025.12 - 2026.05</td>
-      <td align="center" style="padding: 10px;"><b style="color: #2eb872;">✅ Completed</b></td>
+      <td align="center" style="padding: 10px;"><b>Completed</b></td>
     </tr>
     <tr>
       <td style="padding: 10px;"><b>🍒 DevNet Associate</b></td>
       <td align="center" style="padding: 10px;">2025.12 - 2026.05</td>
-      <td align="center" style="padding: 10px;"><b style="color: #2eb872;">✅ Completed</b></td>
+      <td align="center" style="padding: 10px;"><b>Completed</b></td>
     </tr>
     <tr>
       <td style="padding: 10px;"><b>🍒 CyberOps Associate</b></td>
       <td align="center" style="padding: 10px;">2025.12 - 2026.05</td>
-      <td align="center" style="padding: 10px;"><b style="color: #2eb872;">✅ Completed</b></td>
+      <td align="center" style="padding: 10px;"><b>Completed</b></td>
     </tr>
   </tbody>
 </table>
 
-<p align="left">
-  <i>"성나연의 맑은 음색처럼 흔들림 없는 네트워크 인프라를 구축했습니다."</i>
-</p>
 <p align="right">
   <i>Certified by Human Resources Development Service of Korea</i>
 </p>
