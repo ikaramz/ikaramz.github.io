@@ -6,12 +6,19 @@
 # 🛡️ Ikarams | Cybersecurity & Infra Specialist
 
 <p align="center">
-  <img width="100%" alt="APRIL Ikarams Rachel Theme" src="C:\Users\secu-22\Downloads" />
+  <img width="100%" alt="APRIL Ikarams Rachel Theme" src="https://raw.githubusercontent.com/ikarams/ikarams/main/banner.png" onerror="this.src='https://i.ibb.co/3s64bM3/image-0.png'" />
 </p>
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=ikarams&color=FFEA00&style=for-the-badge&label=VISITORS" alt="Visitors" />
 </p>
+
+### 🛡️ Ikarams | Securing the Digital World
+🌻 **Inspired by Artist Rachel (Seong Na-yeon)**
+
+> "Where cold security meets the warmth of April."
+
+I strive for technical perfection by channeling Rachel's positive energy into my security architecture. Just as her smile brightens the world, I aim to create airtight firewalls within every log and packet.
 
 ### 🛡️ Ikarams | Securing the Digital World
 🌻 Inspired by Artist Rachel
