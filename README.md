@@ -19,7 +19,7 @@
 🏗️ Infrastructure Security: "The Pure & Warm Shell"
 Fortifying Linux Servers & Azure Cloud Architecture 🛡️☁️
 
-"As radiant as her Blooming Smile (웃음꽃)" 🌻
+"As radiant as her Blooming Smile" 🌻
 I strive for a 'Pure White' server environment, free from unnecessary risks, much like Rachel’s crystal-clear smile. Just as the April sun melts the frost, I build cloud architectures that are both rock-solid and welcoming, ensuring the foundation is as bright and stable as her presence.
 
 📡 Network Analysis: "The Melodic Detection"
