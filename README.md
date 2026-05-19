@@ -66,7 +66,7 @@ This project ensures your precious data stays beautifully connected across multi
 
 📈 Ongoing Missions (Current Progress) ✨
 📝 Information Processing Engineer
-[🌻🌻🌻🌻🌻🌻🌻---] 70% (Blooming...)
+[🌻🌻🌻🌻🌻🌻🌻---] 70%  (Blooming...)
 
 Status: A fundamental stage of sowing the seeds of technical knowledge to build a solid expertise.
 
