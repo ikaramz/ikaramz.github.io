@@ -93,7 +93,7 @@ Description: Striving for zero-error security scanning, reflecting the perfectio
 > **"Turning passion into protection, one milestone at a time."**
 
 * 💛 **[2026.05]** **정보기기운용기능사 필기 합격** (Written Exam Passed)
-    * └ *Next Step:* 실기 시험(Network Configuration & Maintenance) 준비 중
+    * └ *Next Step:* 실기 시험(Network Configuration & Maintenance) Wating
 * 💛 **[2026.05]** **CISCO Academy 3종 수료** (CCNA, DevNet, CyberOps)
     * └ *Certified by:* Human Resources Development Service of Korea
 * 💛 **[2026.04]** **Solaris 11 보안 취약점 진단 자동화 수행** (KISA 기준)
