@@ -142,24 +142,22 @@ Description: Striving for zero-error security scanning, reflecting the perfectio
 
 ---
 
-#### 📊 GitHub Activity Snapshot 🍒
+## 📊 GitHub Activity Snapshot 🍒
 
 <p align="center">
-  <a href="https://github.com/ikarams">
-    <img src="https://img.shields.io/badge/Followers-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="Followers">
-  </a>
-  &nbsp;
-  <a href="https://github.com/ikarams?tab=stars">
-    <img src="https://img.shields.io/badge/Stars-FFEA00?style=for-the-badge&logo=github&logoColor=black" alt="Stars">
-  </a>
-  &nbsp;
-  <a href="https://github.com/ikarams?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-FFB7C5?style=for-the-badge&logo=github&logoColor=black" alt="Repositories">
+  <img src="https://img.shields.io/badge/FOLLOWERS-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Followers" />
+  <img src="https://img.shields.io/badge/STARS-ffea00?style=for-the-badge&logo=github&logoColor=black" alt="Stars" />
+  <img src="https://img.shields.io/badge/REPOS-f3b0c3?style=for-the-badge&logo=github&logoColor=black" alt="Repos" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ikarams">
+    <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Ikarams&show_icons=true&theme=rose_pine&hide_border=true&bg_color=0d1117&title_color=f3b0c3&icon_color=ffea00&text_color=ffffff" alt="Ikarams's GitHub stats" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikarams&show_icons=true&theme=default&title_color=ffea00&icon_color=ffea00&border_color=ffea00&bg_color=ffffff" alt="Ikarams's GitHub stats" />
+  <i>"Capturing every moment with clarity, as vivid and flawless as a cherry." 🍒✨</i>
 </p>
 
 <p align="center">
