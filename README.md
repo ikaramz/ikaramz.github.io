@@ -160,8 +160,4 @@ Description: Striving for zero-error security scanning, reflecting the perfectio
   <i>"Capturing every moment with clarity, as vivid and flawless as a cherry." 🍒✨</i>
 </p>
 
-<p align="center">
-  <i>"Capturing every moment with clarity, as vivid and flawless as a cherry." 🍒✨ </i>
-  <br>
-  
-</p>
+
