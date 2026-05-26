@@ -67,7 +67,9 @@ This project ensures your precious data stays beautifully connected across multi
 📈 Ongoing Missions (Current Progress) ✨
 
 
+
 🛡️ Future Challenges
+
 Linux Master & NCP Security Certification
 
 Vision: To build a transparent and robust security infrastructure, as clear and pure as Na-yeon Seong's crystalline vocals.
@@ -75,6 +77,7 @@ Vision: To build a transparent and robust security infrastructure, as clear and 
 Focus: Strengthening core Linux skills and Cloud security capabilities to achieve uninterrupted service availability.
 
 🚀 Current Project
+
 C-based Calc Pipeline Security Scanning Module
 
 Mission: Achieving code integrity that is as vivid and flawless as a cherry. 🍒
