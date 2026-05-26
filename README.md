@@ -89,14 +89,28 @@ Description: Striving for zero-error security scanning, reflecting the perfectio
 ---
 
 
-### 🏆 Milestones & Achievements
-> **"Turning passion into protection, one milestone at a time."**
+🏆 Milestones & Achievements / 성과 및 신뢰도
+"Turning passion into protection, one milestone at a time."
 
-* 💛 **[2026.05]** **정보기기운용기능사 필기 합격** (Written Exam Passed)
-    * └ *Next Step:* 실기 시험(Network Configuration & Maintenance) Wating
-* 💛 **[2026.05]** **CISCO Academy 3종 수료** (CCNA, DevNet, CyberOps)
-    * └ *Certified by:* Human Resources Development Service of Korea
-* 💛 **[2026.04]** **Solaris 11 보안 취약점 진단 자동화 수행** (KISA 기준)
+💛 [2026.05] 정보처리기사 필기 합격 (Information Processing Engineer - Written Exam Passed)
+
+[🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻] 100% Full Bloom (Written Exam)!
+
+Status: Inspired by the fresh start of Na-yeon Seong, the seeds of knowledge have successfully bloomed into the first major milestone.
+
+성나연 님의 새로운 시작에서 영감을 받아, 지식의 씨앗이 첫 번째 큰 결실로 멋지게 만개함.
+
+Next Step: Practical Exam (Application Development & System Integration) Waiting / 실기 시험 대기 중
+
+💛 [2026.05] 정보기기운용기능사 필기 합격 (Information Equipment Operation Technician - Written Exam Passed)
+
+Next Step: Practical Exam (Network Configuration & Maintenance) Waiting / 실기 시험 대기 중
+
+💛 [2026.05] CISCO Academy 3종 수료 (CCNA, DevNet, CyberOps)
+
+Certified by: Human Resources Development Service of Korea
+
+💛 [2026.04] Solaris 11 보안 취약점 진단 자동화 수행 (KISA 기준)
 
 
 ---
