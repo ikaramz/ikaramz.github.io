@@ -65,12 +65,7 @@ This project ensures your precious data stays beautifully connected across multi
 ---
 
 📈 Ongoing Missions (Current Progress) ✨
-📝 Information Processing Engineer
-[🌻🌻🌻🌻🌻🌻🌻---] 70%  (Blooming...)
 
-Status: A fundamental stage of sowing the seeds of technical knowledge to build a solid expertise.
-
-Goal: Aiming for the full bloom (100%) of professional certification, inspired by the fresh start and bright future of Na-yeon Seong.
 
 🛡️ Future Challenges
 Linux Master & NCP Security Certification
