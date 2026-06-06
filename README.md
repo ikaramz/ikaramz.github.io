@@ -1,7 +1,8 @@
 # 🛡️ Ikarams | Cybersecurity & Infra Specialist
 
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5750392b-f207-46d7-8031-9b74fa494a8c" width="100%" alt="APRIL Ikarams Rachel Theme" />
+<img width="1408" height="768" alt="APRIL Ikrarams" src="https://github.com/user-attachments/assets/b400b38a-a8a5-4990-a3d1-c6396667e43c" />
 </p>
 
 <p align="right">
